@@ -1,2 +1,2 @@
-  PID  PPID  RUID  EUID RUSER    EUSER    CMD
-  161   135  1234     0 user1    root     passwd
+    PID    PPID  RUID  EUID RUSER    EUSER    TT       CMD
+   1401    1372  1234     0 user1    root     pts/1    passwd
