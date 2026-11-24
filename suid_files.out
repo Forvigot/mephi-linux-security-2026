@@ -1,0 +1,13 @@
+  1357572     80 -rwsr-xr-x   1 root     root        78472 Dec 28  2023 /usr/bin/gpasswd
+  1357738     76 -rwsr-xr-x   1 root     root        74616 Dec 28  2023 /usr/bin/chage
+  1357746     56 -rwsr-xr-x   1 root     root        57184 Oct 31  2025 /usr/bin/su
+  1357818     36 -rwsr-xr-x   1 root     root        36368 Oct 31  2025 /usr/bin/umount
+  1357865     48 -rwsr-xr-x   1 root     root        48736 Oct 31  2025 /usr/bin/mount
+  1357908     40 -rwsr-xr-x   1 root     root        38184 Dec 28  2023 /usr/bin/newgrp
+  1358079     32 -rwsr-xr-x   1 root     root        32168 Sep  8  2025 /usr/bin/pkexec
+   227063    220 ---s--x--x   1 root     root       223408 Sep 30 14:23 /usr/bin/sudo
+   226921     32 -rwsr-xr-x   1 root     root        32568 Nov 13  2023 /usr/bin/passwd
+  1358179     16 -rwsr-xr-x   1 root     root        15672 Jul 31 13:24 /usr/sbin/grub2-set-bootflag
+  1358215     16 -rwsr-xr-x   1 root     root        15648 Oct 27  2025 /usr/sbin/pam_timestamp_check
+  1358224     28 -rwsr-xr-x   1 root     root        28144 Oct 27  2025 /usr/sbin/unix_chkpwd
+  1361122     20 -rwsr-xr-x   1 root     root        19816 Sep  8  2025 /usr/lib/polkit-1/polkit-agent-helper-1
